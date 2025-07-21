@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dados-suporte-quiz",
+  "private_key_id": "785240187dd997ff3c18c61cd8960eb302b19525",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2jhdMfPgRsqyO\nBT+2Art1lkaIRaJZeH9nChvLhS1CYNRbKxahsuaM8kSjPb8amvppWJl+84UpnZij\nDLpAgBFKAWQ0/yVpJxVDyEqMFST9PlB+S3kBBeHTjS1I7Nx7wIXxerFW46yaSMa6\nZVuSM38oo4kACMHdgimKIokTjvzkx0jHUIPBO4UkhbnNNoD6crdApnxvn6WN/K80\nykOVg+8bC4rbvdlcxBH3jJGhyBDks8Qorv2t7ypVP0U3020yudpZE0yp2WDazLYF\nngGQHg6CGnI5109z4cYEK/T6+MPOqsUIWxWf6oLSYIGxFWqusEUkhRJ5I+m5sGrh\n9E/R3i+3AgMBAAECggEAG+fm8NwjnFT4orHJC5zUT2/G3WWY9oirH7MAYmE7yhX8\n2ujgdJxhONzUmDLup8sBX3bZ6U72z/tAI3XlHMoBmpNRivZmdMddgqHh9L2gt2OT\nW2hUbs8Zi8SyI5/YPm9E1Q/r1FFJB8FQkPAV35NRVgLVr58nFMzPu8bMDHotoheq\nZd+yOrpTD5TNO6cpZXBFZCLiD8bhHCHqwx3xmcm5DElVjd1hzveKJOnXggegbLkP\nr7bk83J9LZGe8B+7JoHyvKPTwG2V9ELt8hHnkh9KyocZt+5ogT8ZdX4pzqKGABt1\namallQHNWaBLZDnnCpIwfJVJwqXtLCTotg968qaE3QKBgQD7va7DGfZVzTWw2OfV\nVlZAUwFkGRsFayTMAC18gzw+8MGB6PgDJdRDGl7QlYP9ioPXid70DPWiIUia4Ze5\nEdWNYjFmBlVk+WXJiXdWu79fSuyHQJJShh87OX20ASL5ODb/Qjw6HnhM5LgTT4IQ\n5MivxCeEjoj131OsiU27UXXENQKBgQC5pMG2kw9s9AGlRnXirCF4Cbm8v/ZP4Wq8\n9IgT8ptLjU/0Ze5/IcG4Jv2XhKMJwaqxzCjf6ZHZdj3r3fPU2RaGMqi8cGH7zsbG\nMnvhcO5+YPU+BIxTovhwG2907V+h5hhjW57B/reMt/mFT4o/MCbAHt+FBFMO0ZdP\n0Kh/E2oJuwKBgQCnIH3GjxToT62Gc+otyvzGBZVV1AkJZuFuAewwzpuPmZyOV5FX\n3aR2zCoIRkrzZyMyVBjNY1Eryvb9xClLN5jUHU14U1ocCCrYSsgMr+ZUKFSxUmAS\nI3LWict3Vo3WcMiqXFnJp/Lr8ah3QYCzIIBPmGU37rzkpthRInKVmnYZxQKBgBBG\nw70wM6AH3MUS4m8XTG/r2l8ULZJfXy5l+jBViwwavbHd5gU7fnKY6I8KUAkg88hW\n8BaBsgnw9gjiEujMh88ITgcHi2+6d28VKgtgDWkDMz1WxL7ogQPDRAhqb4IQXH8J\nn2e+33T1BGmNyb80h5E8o7hT4rxf3/ZdgwhxOVDVAoGAPlUP+PktjjZPWUTaDV7k\nP0sl9C1TH/xPgK7EDbYQKnrwuHttgKW89RfkOTKCJ+zZTYbgQkajJOIcgFKnoDsV\n6ct4eM549B5+5Q2UiNJ6kMcDvCxVXppwvAKs6CaLpBdTGahw1v1q6TY9ZrjgEs7N\nefwYV1V4mhPS1ETPK5Kdtjw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "suporte-quiz@dados-suporte-quiz.iam.gserviceaccount.com",
+  "client_id": "110449769076233902668",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/suporte-quiz%40dados-suporte-quiz.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
